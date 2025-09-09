@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGO LAPAGE.png" alt="Logo Lapage" width="200"/>
+  <img src="LOGO LAPAGE.png" alt="Logo Lapage" width="600"/>
 </p>
 
 # 📚 Étude des ventes de la librairie Lapage
